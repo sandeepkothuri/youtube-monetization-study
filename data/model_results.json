@@ -1,0 +1,8 @@
+{
+  "r2_score": 0.8851,
+  "mae_usd": 631715.39,
+  "n_channels": 995,
+  "top_earner_usd": 36291277.87,
+  "median_revenue_usd": 689471.17,
+  "most_influential_feature": "log_total_views"
+}
